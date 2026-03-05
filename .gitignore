@@ -1,0 +1,21 @@
+# Environment
+.env
+jupyter_env/
+
+# MLflow
+mlflow.db
+mlartifacts/
+
+# Predictions log
+predictions_log.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Notebooks (since you want to ignore)
+notebooks/
+
+# IDE
+.idea/
