@@ -1,3 +1,4 @@
+from config import mlflow_config
 from data.data_loading import X_train, X_test, y_train, y_test, dataset
 from models.dt_model import run_dt_experiment
 from models.rf_model import run_rf_experiment
