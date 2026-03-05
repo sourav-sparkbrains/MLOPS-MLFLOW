@@ -5,6 +5,9 @@ import requests
 import json
 import pandas as pd
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent
 ARTIFACTS_DIR = BASE_DIR.parent / "artifacts"
@@ -14,16 +17,15 @@ ohe_path = ARTIFACTS_DIR / "ohe_encoder.pkl"
 ordinal_path = ARTIFACTS_DIR / "ordinal_encoder.pkl"
 
 
-mlflow.set_tracking_uri("http://localhost:5000")
-mlflow.set_experiment("Production_Monitoring")
-
-ENDPOINT = "http://127.0.0.1:8080/invocations"
+ENDPOINT = f"http://{os.getenv("IP_ADDRESS")}:8080/invocations"
 LABEL_MAP = {0: "Low", 1: "Medium", 2: "High"}
 
 ohe_encoder = joblib.load(ohe_path)
 ordinal_encoder = joblib.load(ordinal_path)
 
 def do_inference(raw_input):
+    mlflow.set_tracking_uri(f"http://{os.getenv("IP_ADDRESS")}:5000")
+    mlflow.set_experiment("Production_Monitoring")
     data_dict = raw_input.model_dump()
 
     ohe_features = ["job_role", "country", "industry", "remote_work_type", "primary_ai_tool", "ai_adoption_stage"]
