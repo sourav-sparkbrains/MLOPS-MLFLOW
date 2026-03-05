@@ -24,7 +24,8 @@ ohe_encoder = joblib.load(ohe_path)
 ordinal_encoder = joblib.load(ordinal_path)
 
 def do_inference(raw_input):
-    mlflow.set_tracking_uri(f"http://{os.getenv("IP_ADDRESS")}:5000")
+
+    mlflow.set_tracking_uri(f"http://{os.getenv("DOCKER_IP")}:5000")
     mlflow.set_experiment("Production_Monitoring")
     data_dict = raw_input.model_dump()
 
