@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+mlops_env/
+
+# MLflow
+mlflow.db
+mlartifacts/
+
+# Data & logs
+predictions_log.csv
+
+# Training code (not needed in container)
+data/
+models/
+config/
+utils/model_compare.py
+utils/model_excutor.py
+utils/pipeline.py
+
+# Notebooks
+notebooks/
+
+# Git
+.git
+.gitignore
