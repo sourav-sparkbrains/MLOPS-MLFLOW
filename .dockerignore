@@ -25,6 +25,9 @@ utils/pipeline.py
 # Notebooks
 notebooks/
 
+#Reports
+reports/
+
 # Git
 .git
 .gitignore

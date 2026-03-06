@@ -1,0 +1,101 @@
+job_role,years_experience,education_level,country,industry,company_size,remote_work_type,team_size,salary_usd_k,primary_ai_tool,ai_tools_used_per_day,hours_with_ai_assistance_daily,ai_replaces_my_tasks_pct,ai_adoption_stage,weekly_ai_upskilling_hrs,productivity_score,burnout_score,job_satisfaction_1_5,fear_of_ai_replacement,attrition_risk
+Data Scientist,13,Self-taught,France,Automotive,Startup (<50),Fully Remote,10,52,Notion AI,7,4.5,94,Experimenting,14.1,82,35,2.7,High,High
+Backend Engineer,12,Bachelor,USA,Automotive,Small (50-200),On-site,13,175,Cursor,2,7.6,72,Experimenting,7.6,71,15,2.1,Low,Medium
+Backend Engineer,12,Bootcamp,Canada,Cybersecurity,Enterprise (5000+),Fully Remote,40,148,GitHub Copilot,6,1.5,25,AI-First,9.3,42,74,3.6,Low,Low
+Data Analyst,6,Bachelor,UK,Fintech,Small (50-200),On-site,7,66,Notion AI,10,0.5,47,Optimizing,8.3,45,17,3.6,Medium,Medium
+ML Engineer,13,Self-taught,Netherlands,Cybersecurity,Large (1000-5000),Fully Remote,49,183,Midjourney,10,7.6,20,Experimenting,2.7,57,32,5.0,Medium,Low
+Backend Engineer,18,Master,Australia,Media,Mid (200-1000),Fully Remote,25,77,ChatGPT,9,2.7,79,Experimenting,5.7,68,61,2.3,Medium,Medium
+Data Scientist,12,Bootcamp,Canada,Automotive,Large (1000-5000),Hybrid,48,132,Gemini,4,2.8,88,Optimizing,10.1,59,23,4.5,High,Medium
+Backend Engineer,8,Bachelor,Singapore,Cybersecurity,Large (1000-5000),Hybrid,28,95,ChatGPT,9,2.7,92,Integrating,12.0,88,26,4.7,Medium,Medium
+AI Researcher,14,Bootcamp,Germany,E-commerce,Small (50-200),On-site,45,184,Gemini,4,3.3,30,Integrating,1.1,65,98,2.2,Low,High
+Software Engineer,6,Master,UK,Media,Small (50-200),Hybrid,44,132,GitHub Copilot,2,4.3,30,Experimenting,8.3,41,75,4.1,Medium,Low
+AI Researcher,14,Bachelor,Brazil,EdTech,Enterprise (5000+),On-site,50,185,Notion AI,4,6.0,18,Integrating,2.1,24,17,2.7,Medium,High
+Software Engineer,19,Bootcamp,Singapore,Media,Large (1000-5000),Hybrid,27,74,Notion AI,8,3.0,21,AI-First,13.2,69,63,3.2,High,Low
+AI Ethics Officer,9,Self-taught,Singapore,Cybersecurity,Enterprise (5000+),On-site,26,77,Gemini,10,7.2,65,Optimizing,14.7,88,40,5.0,High,Low
+DevOps Engineer,11,Bachelor,Canada,Gaming,Large (1000-5000),On-site,45,166,Notion AI,1,4.9,57,Integrating,3.3,95,16,2.6,Low,Medium
+ML Engineer,8,Bootcamp,Singapore,Automotive,Small (50-200),Fully Remote,46,136,Perplexity,4,1.4,26,Integrating,4.9,66,19,3.2,Low,High
+Prompt Engineer,12,Bootcamp,Canada,Fintech,Startup (<50),Fully Remote,11,169,ChatGPT,1,6.2,87,AI-First,3.3,49,88,3.4,High,Low
+AI Ethics Officer,2,Master,UK,Media,Mid (200-1000),Fully Remote,49,58,Midjourney,8,5.3,71,Experimenting,4.2,32,40,3.3,High,High
+DevOps Engineer,6,Self-taught,Australia,Gaming,Mid (200-1000),Hybrid,39,41,Claude,1,2.8,25,Optimizing,14.2,56,81,2.2,Low,Medium
+Data Scientist,3,PhD,Netherlands,Automotive,Enterprise (5000+),On-site,22,115,Cursor,1,3.3,39,Optimizing,8.7,22,46,4.0,Medium,High
+Frontend Engineer,8,Self-taught,Brazil,Consulting,Large (1000-5000),Fully Remote,17,195,Notion AI,3,6.8,17,AI-First,1.1,23,35,1.5,Low,High
+AI Researcher,2,Master,Germany,SaaS,Small (50-200),Fully Remote,2,194,GitHub Copilot,9,3.5,62,Experimenting,3.3,49,53,2.7,Medium,High
+DevOps Engineer,12,Bootcamp,Germany,Media,Enterprise (5000+),Hybrid,15,55,Claude,10,2.0,27,Optimizing,7.7,51,32,4.4,Medium,Low
+Software Engineer,17,Bootcamp,Brazil,Fintech,Startup (<50),Fully Remote,35,88,Claude,7,4.4,14,Optimizing,4.5,92,52,3.0,Low,High
+Data Analyst,2,Bachelor,India,Gaming,Startup (<50),Fully Remote,44,104,Midjourney,5,7.3,90,Integrating,1.1,87,47,1.8,Medium,Low
+Prompt Engineer,12,Bachelor,Germany,E-commerce,Enterprise (5000+),Hybrid,14,145,GitHub Copilot,1,3.2,23,Experimenting,12.7,68,12,2.4,Medium,Medium
+Backend Engineer,18,Self-taught,Canada,Healthtech,Large (1000-5000),Fully Remote,15,86,Cursor,10,2.4,14,Experimenting,7.1,75,20,3.8,High,Medium
+Product Manager,14,Bootcamp,UK,EdTech,Mid (200-1000),Hybrid,47,118,ChatGPT,5,4.5,13,Experimenting,4.1,61,89,1.4,Medium,High
+Cloud Architect,8,Self-taught,Australia,Cybersecurity,Enterprise (5000+),Fully Remote,40,97,ChatGPT,7,1.4,7,Integrating,7.9,76,64,4.2,Medium,High
+Backend Engineer,20,Bootcamp,Canada,E-commerce,Small (50-200),Fully Remote,6,181,Notion AI,8,6.1,48,Experimenting,10.8,26,82,1.3,Low,Medium
+Backend Engineer,14,Bootcamp,France,Healthtech,Large (1000-5000),Fully Remote,22,85,Perplexity,2,0.6,60,Integrating,3.6,37,98,2.1,Low,High
+Data Scientist,4,Master,Germany,Consulting,Small (50-200),On-site,8,49,Notion AI,9,2.8,25,Integrating,11.2,24,87,4.3,Medium,Medium
+Data Scientist,5,Master,France,Cybersecurity,Startup (<50),On-site,21,144,Notion AI,9,2.4,28,AI-First,5.0,44,52,3.0,High,Low
+Cloud Architect,12,Bootcamp,Brazil,Fintech,Startup (<50),On-site,29,67,GitHub Copilot,6,5.9,56,Experimenting,1.1,31,64,2.8,Low,Low
+Backend Engineer,3,Self-taught,Singapore,Media,Large (1000-5000),Fully Remote,48,96,Notion AI,3,6.7,91,Optimizing,2.2,34,51,1.1,Low,Medium
+Data Scientist,11,Bootcamp,India,Cybersecurity,Mid (200-1000),Hybrid,36,187,Cursor,4,3.1,10,Integrating,10.7,90,96,4.7,Low,High
+ML Engineer,20,Bachelor,Australia,Automotive,Enterprise (5000+),Hybrid,37,75,Notion AI,1,0.6,80,Integrating,3.1,75,15,1.3,Medium,High
+ML Engineer,10,Master,Germany,EdTech,Mid (200-1000),On-site,46,55,Notion AI,1,5.5,48,AI-First,3.8,40,15,1.7,Low,Medium
+Data Scientist,14,Bootcamp,Brazil,Consulting,Mid (200-1000),On-site,43,126,Notion AI,2,7.4,50,Optimizing,1.9,32,10,2.5,Medium,High
+Backend Engineer,19,PhD,France,E-commerce,Mid (200-1000),Hybrid,10,64,Midjourney,5,7.8,89,Experimenting,8.7,88,43,1.6,Medium,High
+ML Engineer,5,Master,Singapore,Consulting,Small (50-200),Fully Remote,24,37,Gemini,4,4.1,13,AI-First,13.3,50,74,5.0,Low,Medium
+DevOps Engineer,12,Bootcamp,Germany,Gaming,Enterprise (5000+),Fully Remote,6,33,Perplexity,1,3.9,87,AI-First,8.0,20,37,3.9,High,Low
+Prompt Engineer,14,Self-taught,Germany,EdTech,Small (50-200),Hybrid,40,35,GitHub Copilot,5,0.9,9,Optimizing,9.0,67,73,4.1,Medium,High
+AI Ethics Officer,5,PhD,Netherlands,SaaS,Mid (200-1000),On-site,14,200,Claude,5,1.8,37,AI-First,12.8,69,100,2.6,Medium,High
+AI Researcher,16,PhD,Brazil,Automotive,Large (1000-5000),On-site,18,89,Midjourney,1,1.7,33,Integrating,4.6,70,55,2.6,Medium,Medium
+Prompt Engineer,1,Self-taught,Brazil,Cybersecurity,Small (50-200),Hybrid,49,153,Cursor,3,3.0,23,Experimenting,8.0,91,95,3.3,Medium,Low
+ML Engineer,4,Bachelor,Netherlands,Consulting,Enterprise (5000+),Hybrid,23,85,ChatGPT,2,2.2,85,Optimizing,12.1,69,30,4.9,High,Medium
+Backend Engineer,11,PhD,Germany,Healthtech,Large (1000-5000),Fully Remote,42,150,Claude,4,6.0,38,AI-First,5.7,20,33,3.6,High,Medium
+Cloud Architect,14,Master,Singapore,Automotive,Enterprise (5000+),Fully Remote,32,175,Cursor,3,7.7,61,AI-First,3.6,86,72,3.4,Medium,High
+Product Manager,20,Bachelor,Canada,Cybersecurity,Large (1000-5000),On-site,31,79,ChatGPT,6,4.2,53,AI-First,13.4,60,17,3.9,Low,Low
+ML Engineer,14,Bootcamp,India,Fintech,Startup (<50),On-site,49,78,Midjourney,4,6.3,37,Experimenting,5.8,27,15,4.1,Low,Low
+Backend Engineer,20,Self-taught,USA,EdTech,Large (1000-5000),Fully Remote,31,97,Gemini,6,6.7,49,Integrating,4.4,22,92,2.8,Low,High
+Data Analyst,7,Bachelor,Singapore,Gaming,Mid (200-1000),Fully Remote,47,150,Cursor,5,6.4,66,AI-First,1.2,23,42,3.1,Low,Medium
+DevOps Engineer,1,Bachelor,Netherlands,Healthtech,Startup (<50),Hybrid,24,123,Cursor,5,7.7,38,AI-First,3.3,49,95,2.2,High,Low
+DevOps Engineer,16,PhD,Canada,Media,Large (1000-5000),Hybrid,26,112,Perplexity,4,0.9,21,Integrating,12.2,70,31,4.4,Low,Medium
+AI Ethics Officer,7,Bachelor,Singapore,Cybersecurity,Startup (<50),Fully Remote,47,178,GitHub Copilot,1,1.7,44,Integrating,7.6,27,27,2.2,Medium,High
+AI Researcher,8,Master,USA,Healthtech,Startup (<50),Hybrid,29,58,ChatGPT,9,1.8,86,Optimizing,5.4,69,56,1.6,High,Low
+Backend Engineer,14,Bootcamp,Australia,E-commerce,Small (50-200),Fully Remote,30,88,Notion AI,9,0.8,32,Integrating,14.6,46,22,3.2,High,Low
+Prompt Engineer,2,Self-taught,Singapore,Consulting,Large (1000-5000),Fully Remote,7,73,GitHub Copilot,4,1.2,14,Experimenting,2.1,54,57,4.1,Low,Medium
+Data Scientist,20,PhD,UK,Automotive,Small (50-200),Fully Remote,34,148,Cursor,2,3.2,93,Integrating,10.2,59,86,1.2,Low,High
+Backend Engineer,2,Bootcamp,Brazil,Gaming,Startup (<50),On-site,31,58,Notion AI,9,3.6,32,Experimenting,1.5,81,25,4.2,Low,Low
+Prompt Engineer,6,Bachelor,Canada,SaaS,Mid (200-1000),Fully Remote,17,83,GitHub Copilot,10,3.8,82,AI-First,9.7,93,42,3.1,Low,High
+Frontend Engineer,15,Bootcamp,Netherlands,Cybersecurity,Startup (<50),On-site,40,57,Midjourney,2,7.0,87,Experimenting,3.4,50,77,1.5,High,Medium
+Software Engineer,10,PhD,Singapore,Consulting,Startup (<50),On-site,25,183,GitHub Copilot,2,5.0,70,Integrating,6.1,39,90,4.1,Medium,High
+Product Manager,6,Master,Netherlands,Media,Startup (<50),On-site,19,101,Perplexity,10,4.3,18,AI-First,10.8,36,70,2.1,Medium,Medium
+Prompt Engineer,7,Bootcamp,Singapore,Healthtech,Enterprise (5000+),Hybrid,19,34,Cursor,1,6.3,53,Optimizing,9.7,54,81,1.4,Medium,High
+Cloud Architect,20,Self-taught,Brazil,Gaming,Startup (<50),Fully Remote,3,161,ChatGPT,8,1.3,60,Integrating,10.3,71,84,4.5,High,Medium
+Data Analyst,20,PhD,Australia,SaaS,Enterprise (5000+),On-site,25,92,Cursor,6,1.3,91,Experimenting,10.0,35,30,4.0,High,Medium
+Cloud Architect,7,Self-taught,France,Cybersecurity,Large (1000-5000),Hybrid,15,127,Gemini,5,7.4,12,Optimizing,3.9,31,20,2.5,High,Medium
+Frontend Engineer,20,Self-taught,USA,SaaS,Small (50-200),Hybrid,8,51,ChatGPT,6,6.4,23,Optimizing,12.6,29,18,2.6,High,Medium
+Product Manager,7,Bootcamp,Netherlands,SaaS,Small (50-200),On-site,40,113,Midjourney,8,1.5,34,Optimizing,6.7,81,42,4.5,High,Medium
+AI Ethics Officer,3,Bootcamp,Brazil,Healthtech,Startup (<50),Hybrid,35,166,GitHub Copilot,8,5.6,59,Experimenting,10.4,31,66,3.4,High,Medium
+Product Manager,1,Self-taught,USA,Fintech,Startup (<50),On-site,43,129,Midjourney,3,5.4,45,AI-First,10.1,65,99,1.3,High,High
+Product Manager,2,Self-taught,UK,EdTech,Small (50-200),On-site,10,32,Cursor,9,2.9,39,Integrating,2.7,80,47,2.8,High,Medium
+Software Engineer,6,PhD,Canada,SaaS,Enterprise (5000+),Fully Remote,35,111,Notion AI,8,0.8,10,AI-First,3.6,56,91,2.5,Low,Low
+Software Engineer,9,Bootcamp,Australia,SaaS,Enterprise (5000+),On-site,48,131,GitHub Copilot,4,5.0,16,AI-First,8.4,47,30,3.9,Medium,Medium
+DevOps Engineer,16,Bootcamp,Canada,Cybersecurity,Enterprise (5000+),On-site,41,67,GitHub Copilot,9,1.7,34,Optimizing,4.6,37,91,1.6,Medium,Medium
+AI Ethics Officer,16,Self-taught,UK,Cybersecurity,Enterprise (5000+),Hybrid,8,162,Gemini,1,5.6,34,Optimizing,5.5,20,98,1.5,High,Low
+AI Ethics Officer,17,Bachelor,UK,Gaming,Startup (<50),On-site,6,118,Midjourney,10,7.3,18,Experimenting,8.6,71,14,2.3,Medium,Medium
+Prompt Engineer,3,Self-taught,India,E-commerce,Large (1000-5000),On-site,7,187,Claude,9,1.3,69,Experimenting,13.6,79,38,1.6,Low,Medium
+Software Engineer,4,Master,Brazil,E-commerce,Small (50-200),Fully Remote,15,180,Gemini,3,3.1,95,Integrating,13.5,82,90,1.5,Low,Low
+Cloud Architect,2,PhD,USA,Gaming,Enterprise (5000+),Hybrid,35,85,Claude,8,1.8,68,Integrating,5.3,77,25,1.0,High,Low
+AI Ethics Officer,13,Master,USA,E-commerce,Mid (200-1000),On-site,7,63,GitHub Copilot,2,2.9,78,Integrating,9.1,44,33,1.9,Medium,Low
+Backend Engineer,2,Bootcamp,India,Healthtech,Mid (200-1000),Fully Remote,29,144,Notion AI,6,1.9,33,AI-First,4.5,94,45,4.6,Low,Low
+AI Ethics Officer,2,PhD,Canada,Fintech,Enterprise (5000+),On-site,40,42,Claude,3,2.2,77,Experimenting,12.5,51,54,2.8,High,Medium
+Prompt Engineer,9,Bachelor,USA,Cybersecurity,Mid (200-1000),Hybrid,31,96,Cursor,8,6.9,82,Optimizing,11.2,90,27,2.5,High,High
+ML Engineer,14,Master,Australia,EdTech,Mid (200-1000),Hybrid,21,121,Perplexity,5,1.8,17,Integrating,1.7,74,96,3.3,Medium,Low
+Data Scientist,6,Bachelor,Canada,Cybersecurity,Enterprise (5000+),Hybrid,16,43,GitHub Copilot,9,4.2,74,Optimizing,1.5,27,50,3.0,Low,High
+AI Researcher,8,Master,Netherlands,SaaS,Small (50-200),Fully Remote,8,60,Gemini,3,7.1,31,Optimizing,10.2,20,28,3.2,High,Low
+Frontend Engineer,12,Self-taught,Singapore,Automotive,Large (1000-5000),Hybrid,23,97,ChatGPT,2,2.0,51,Integrating,6.7,100,34,2.3,Medium,Medium
+ML Engineer,3,Bootcamp,UK,Fintech,Mid (200-1000),On-site,2,157,ChatGPT,6,1.5,60,AI-First,5.9,71,33,2.9,Medium,Medium
+Product Manager,20,Bachelor,USA,SaaS,Small (50-200),Hybrid,9,60,Midjourney,8,6.9,42,Optimizing,12.2,76,78,2.5,Low,High
+AI Researcher,2,PhD,Canada,SaaS,Large (1000-5000),Fully Remote,29,126,Notion AI,10,3.0,54,Experimenting,8.5,38,66,4.2,Medium,Medium
+Backend Engineer,5,PhD,Australia,Healthtech,Mid (200-1000),Fully Remote,6,42,Claude,3,0.7,78,Experimenting,5.5,48,92,2.4,High,High
+AI Researcher,19,PhD,Brazil,E-commerce,Large (1000-5000),Fully Remote,23,65,Cursor,10,5.7,5,AI-First,7.6,89,33,2.8,Low,Low
+Data Scientist,9,Self-taught,Canada,Cybersecurity,Small (50-200),Fully Remote,49,119,Cursor,1,1.8,36,AI-First,11.9,27,87,4.7,High,High
+DevOps Engineer,17,Bootcamp,Netherlands,SaaS,Enterprise (5000+),Fully Remote,4,69,Cursor,5,2.6,52,Experimenting,2.4,68,100,2.1,Low,High
+ML Engineer,7,Master,Australia,EdTech,Large (1000-5000),Fully Remote,37,69,Claude,5,5.8,8,AI-First,8.8,42,78,2.5,Medium,Low
+DevOps Engineer,5,Master,UK,EdTech,Small (50-200),On-site,38,54,Perplexity,6,3.5,5,Experimenting,5.1,50,86,2.6,High,Medium
+ML Engineer,14,PhD,Brazil,EdTech,Mid (200-1000),Fully Remote,46,40,ChatGPT,3,0.8,45,Experimenting,5.4,46,42,2.6,Medium,Low
+Data Analyst,6,Bachelor,Canada,Media,Small (50-200),Hybrid,17,194,Claude,6,4.3,35,Optimizing,13.7,37,12,3.8,Medium,High

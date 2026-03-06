@@ -25,6 +25,13 @@ class DataPreparation:
     def load_data(self):
         self.df = pd.read_csv(DATA_PATH)
         self.df.drop(columns=["employee_id"], inplace=True)
+
+        new_data_path = BASE_DIR / "data" / "new_data.csv"
+        if new_data_path.exists():
+            new_df = pd.read_csv(new_data_path)
+            self.df = pd.concat([self.df, new_df], ignore_index=True)
+            print(f"Combined dataset: {len(self.df)} rows")
+
         return self.df
 
     def encode_features(self):

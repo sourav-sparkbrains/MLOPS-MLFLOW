@@ -14,8 +14,11 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Notebooks (since you want to ignore)
+# Notebooks
 notebooks/
 
 # IDE
 .idea/
+
+#Reports
+reports/

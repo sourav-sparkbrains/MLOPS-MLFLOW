@@ -15,7 +15,7 @@ def compare_models():
 
 
     all_runs = mlflow.search_runs(
-        experiment_names=["AI_Worker_Burnout_Attrition"],
+        experiment_names=["Production_Monitoring"],
         order_by=["metrics.test_accuracy DESC"]
     )
     best_new_run = all_runs.iloc[0]
@@ -25,7 +25,7 @@ def compare_models():
     print(f"Production accuracy: {production_accuracy:.4f}")
     print(f"Best new run accuracy: {best_run_accuracy:.4f}")
 
-    if best_run_accuracy > production_accuracy + 0.005:
+    if best_run_accuracy > production_accuracy + 0.02:
         model_uri = f"runs:/{best_run_id}/model"
         registered = mlflow.register_model(model_uri=model_uri, name="Best_Ai_Worker_Burnout_Attrition_Classifier")
         client.set_registered_model_alias(
